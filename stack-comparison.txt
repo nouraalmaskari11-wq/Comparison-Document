@@ -1,5 +1,6 @@
 This document compares popular technology stacks to help in selecting the best option for web or application development based on project requirements, scalability, performance, and ease of use.
 
+<<<<<<< HEAD
 MERN vs Spring Boot Technology Stack Comparison
 
 | Feature              | **MERN Stack**                                               | **Spring Boot Stack**                                                          |
@@ -9,3 +10,13 @@ MERN vs Spring Boot Technology Stack Comparison
 | **Platform**         | Cross-platform (Node.js runs on Linux, Windows, macOS)       | Cross-platform (Java runs on JVM)                                              |
 | **Architecture**     | Client-server, often used for SPA (Single Page Applications) | Microservices, REST APIs, MVC architecture                                     |
 | **License**          | Open-source                                                  | Open-source (Apache 2.0)                                                       |
+=======
+MERN vs DotNet comparison
+| Feature              | **MERN Stack**                                               | **.NET Stack**                                                            |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| **Components**       | MongoDB, Express.js, React, Node.js                          | C#, ASP.NET, SQL Server (or other DB), IIS/Windows Server                 |
+| **Primary Language** | JavaScript (full-stack)                                      | C# (back-end), optional JS/TS for front-end                               |
+| **Platform**         | Cross-platform (Node.js runs on Linux, Windows, macOS)       | Mainly Windows-based, .NET Core is cross-platform                         |
+| **Architecture**     | Client-server, often used for SPA (Single Page Applications) | Client-server, supports MVC, REST APIs, Microservices                     |
+| **License**          | Open-source                                                  | Commercial with free options (Community Edition), open-source (.NET Core) |
+>>>>>>> 0c5c1002a208c8a4f19c7f9b44283a5e917c292d
