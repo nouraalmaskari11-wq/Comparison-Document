@@ -20,3 +20,7 @@ MERN vs DotNet comparison
 | **Architecture**     | Client-server, often used for SPA (Single Page Applications) | Client-server, supports MVC, REST APIs, Microservices                     |
 | **License**          | Open-source                                                  | Commercial with free options (Community Edition), open-source (.NET Core) |
 >>>>>>> 0c5c1002a208c8a4f19c7f9b44283a5e917c292d
+ 
+Conclusion
+
+The choice of stack depends on project goals, team skillset, and scalability needs. For modern web applications, JavaScript stacks like MERN/MEAN dominate. For rapid development or data-heavy apps, Django or Rails are strong choices. LAMP remains solid for traditional websites.
