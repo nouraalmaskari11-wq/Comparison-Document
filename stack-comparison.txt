@@ -1,1 +1,11 @@
 This document compares popular technology stacks to help in selecting the best option for web or application development based on project requirements, scalability, performance, and ease of use.
+
+MERN vs Spring Boot Technology Stack Comparison
+
+| Feature              | **MERN Stack**                                               | **Spring Boot Stack**                                                          |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| **Components**       | MongoDB, Express.js, React, Node.js                          | Spring Boot, Java, Hibernate/JPA, MySQL/PostgreSQL (or other DB), Tomcat/Jetty |
+| **Primary Language** | JavaScript (full-stack)                                      | Java (back-end), optional JS/TS for front-end                                  |
+| **Platform**         | Cross-platform (Node.js runs on Linux, Windows, macOS)       | Cross-platform (Java runs on JVM)                                              |
+| **Architecture**     | Client-server, often used for SPA (Single Page Applications) | Microservices, REST APIs, MVC architecture                                     |
+| **License**          | Open-source                                                  | Open-source (Apache 2.0)                                                       |
