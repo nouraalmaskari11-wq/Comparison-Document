@@ -1,1 +1,10 @@
 This document compares popular technology stacks to help in selecting the best option for web or application development based on project requirements, scalability, performance, and ease of use.
+
+MERN vs DotNet comparison
+| Feature              | **MERN Stack**                                               | **.NET Stack**                                                            |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| **Components**       | MongoDB, Express.js, React, Node.js                          | C#, ASP.NET, SQL Server (or other DB), IIS/Windows Server                 |
+| **Primary Language** | JavaScript (full-stack)                                      | C# (back-end), optional JS/TS for front-end                               |
+| **Platform**         | Cross-platform (Node.js runs on Linux, Windows, macOS)       | Mainly Windows-based, .NET Core is cross-platform                         |
+| **Architecture**     | Client-server, often used for SPA (Single Page Applications) | Client-server, supports MVC, REST APIs, Microservices                     |
+| **License**          | Open-source                                                  | Commercial with free options (Community Edition), open-source (.NET Core) |
